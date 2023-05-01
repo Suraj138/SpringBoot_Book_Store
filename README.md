@@ -106,7 +106,7 @@ Remember, always make sure to install and configure these components properly, a
 Open Spring Tool Suit and Run the project on Spring boot. Check the port on which the server is running. Open a browser and go to local host and check webpage is running.
 
 ### Break down into end to end tests
-After opening the local host. you inter our online book management system and see all collection book, add book and my book list page.
+After opening the local host. you enter our online book management system and see all collection book, add book and my book list page.
 
 ```
 Example
@@ -117,7 +117,7 @@ Example
 Portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Here am add screenshot to show my book store project vie images and working view.
+Screenshots showing working of the project:
 - Home page:
 ![screenshot1](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%201.png)
 
