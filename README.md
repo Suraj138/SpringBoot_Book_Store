@@ -1,5 +1,5 @@
 # SpringBoot_Book_Store
-- Spring boot simple project | Book Store Management | MySql | Thymeleaf |JPA
+- Book Store Management | Spring boot simple project | MySql | Thymeleaf |JPA
 
 
 # Project-Documentation
