@@ -57,7 +57,7 @@ The main functionalities of the system include:-
 - Fetching book details by ID: This functionality allows users to get all the details of a book by providing its ID. The endpoint for this function.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 You need Eclipse EE edition/Spring Tool Suite, Tomcat Server, Spring Framework MySQL Databasev software to work on this project. Go to google and search,
