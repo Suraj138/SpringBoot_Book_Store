@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/booklogo.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/booklogo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">SpringBoot Book Store Management</h3>
@@ -78,8 +78,8 @@ I'm using Spring Tool Suite for this project.
 Example:
 
 
-![screenshot10](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/screenshot%2010.jpg)
-![screenshot11](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/screenshot%2011.jpg)
+![screenshot10](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/screenshot%2011.jpg)
+![screenshot11](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/screenshot%2012.jpg)
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
@@ -111,7 +111,7 @@ After opening the local host. you enter our online book management system and se
 ```
 Example
 ```
-![screenshot9](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%209.png)
+![screenshot10](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%2010.png)
 
 ## 🎈 Usage <a name="usage"></a>
 Portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection.
@@ -119,28 +119,31 @@ Portal designed to help users keep track of their personal book collection. With
 ## 🚀 Deployment <a name = "deployment"></a>
 Screenshots showing working of the project:
 - Home page:
-![screenshot1](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%201.png)
+![screenshot1](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%201.png)
 
 - Available Book List:
-![screenshot2](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%202.png)
+![screenshot2](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%202.png)
 
 - MyBookList
-![screenshot3](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%203.png)
+![screenshot3](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%203.png)
 
 - NewBookRegister
-![screenshot4](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%204.png)
+![screenshot4](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%204.png)
+
+- EditBookList
+![screenshot5](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%204.png)
 
 - JavaCodes main runnable class
-![screenshot5](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%205.png)
+![screenshot6](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%206.png)
 
 - Application.Properties
-![screenshot6](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%206.png)
+![screenshot7](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%207.png)
 
 - MySQL Database
-![screenshot7](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%207.png)
+![screenshot8](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%208.png)
 
 - MySQL Database
-![screenshot8](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/sceenshot/Screenshot%208.png)
+![screenshot9](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%209.png)
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
