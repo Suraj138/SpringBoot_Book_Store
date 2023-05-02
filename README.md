@@ -27,6 +27,7 @@ The Book Store Management system is a Java-based software application developed 
     <br> 
 </p>
 
+
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
@@ -36,6 +37,7 @@ The Book Store Management system is a Java-based software application developed 
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
+
 
 ## 🧐 About <a name = "about"></a>
 The Book Store Management System is a Java-based web application developed using Spring Boot, Thymeleaf, and JPA. The purpose of this system is to manage the storage, tracking, and sale of books in a bookstore. It has been designed for single-user access, with the admin managing the overall application. The system is built using the MVC (Model, View, Controller) pattern, with Spring Boot as the backend, Hibernate as the data access layer, and HTML, CSS, and Bootstrap for the frontend. MySQL is used as the database for this application.
@@ -55,6 +57,7 @@ The main functionalities of the system include:-
 - DeletBook: In this section, we can delete any book from our book list as needed.
 
 - Fetching book details by ID: This functionality allows users to get all the details of a book by providing its ID. The endpoint for this function.
+
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -80,6 +83,7 @@ Example:
 
 ![screenshot10](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/screenshot%2011.jpg)
 ![screenshot11](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/screenshot%2012.jpg)
+
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
@@ -113,8 +117,11 @@ Example
 ```
 ![screenshot10](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%2010.png)
 
+
 ## 🎈 Usage <a name="usage"></a>
 Portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection.
+
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Screenshots showing working of the project:
@@ -146,14 +153,19 @@ Screenshots showing working of the project:
 ![screenshot9](https://github.com/Suraj138/SpringBoot_Book_Store/blob/master/screenshot/Screenshot%209.png)
 
 
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mysql.com/) - Database
 - [SpringBoot](https://start.spring.io/) - Server Framework
 - [HTML5](https://www.w3schools.com/html/) - Markup language used for creating web pages.
 - [Bootstrap5](https://getbootstrap.com/) - Web Environment
 
+
+
 ## ✍️ Authors <a name = "authors"></a>
 - [@Suraj Kumar](https://github.com/suraj138) - Idea & Initial work
+
+
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration: Junie Deny Solomon
