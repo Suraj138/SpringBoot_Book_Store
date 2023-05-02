@@ -46,7 +46,7 @@ The main functionalities of the system include:-
 
 - Listing all books: The system provides the all book list in our store ("/book-list") to fetch the details of all registered books.
 
-- Updating a book: Users can update book details by providing the book ID and a make changes itself "/api/books/{id}".
+- Updating a book: Users can update book details by providing the book ID and a make changes itself ("/books/{id})".
 
 - AddBook: In this section, we can add books to our online store by providing the necessary details, and once added successfully, they will appear in the bookList section.
 
