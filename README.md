@@ -168,7 +168,7 @@ Screenshots showing working of the project:
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Inspiration: Junie Deny Solomon &  [@Skill-Lync](https://github.com/Suraj138)
+- Inspiration: Junie Deny Solomon &  [@Skill-Lync](https://skill-lync.com/)
 - References: Junie Deny Solomon
 - References: Bheemesh R
 - References: Bhupendra Parihar
